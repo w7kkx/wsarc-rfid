@@ -1,0 +1,3 @@
+rootProject.name = 'rfidlink'
+include 'impinj'
+

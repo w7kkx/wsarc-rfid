@@ -1,0 +1,7 @@
+	rfidlink/.gradle/
+	rfidlink/.idea/
+	rfidlink/build/
+	rfidlink/gradle/
+	rfidlink/impinj/build/
+	rfidlink/out/
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":impinj" external.linked.project.path="$MODULE_DIR$/../../impinj" external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="org.wsarc" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../impinj">
+      <sourceFolder url="file://$MODULE_DIR$/../../impinj/com.wsarc.rfidlink.impinj" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../impinj/src/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../impinj/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../impinj/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
